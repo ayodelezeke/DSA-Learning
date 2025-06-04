@@ -16,3 +16,8 @@ I have learnt quite a number of things ranging from MS Excel to SQL and now Port
 - SQL Server (For Quering and Analysis)
 - Power BI (For Creating a Report)
 - MS Powerpoint (For Presentation)
+
+``` SQL
+SELECT A,B,C
+WHERE A < 5
+``` 
